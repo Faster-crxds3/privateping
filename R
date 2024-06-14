@@ -1,0 +1,7 @@
+▪️git clone https://github.com/0x802/MikrotikSploit.git
+▪️cd MikrotikSploit
+▪️chmod +x setup.py
+▪️./setup.py install
+▪️pip3 install -r requirements.txt
+
+▪️python3 MikrotikSploit.py
